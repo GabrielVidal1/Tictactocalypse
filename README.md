@@ -1,4 +1,4 @@
-<a href="https://gabrielvidal1.github.io/Tictactocalypse/" target="_blank"><img src="doc/images/cover.png"/></a>
+<a href="https://gabrielvidal1.github.io/Projects/Tictactocalypse/" target="_blank"><img src="doc/images/cover.png"/></a>
 
 # [Tictactocalypse](https://gabrielvidal1.github.io/Projects/Tictactocalypse/)
 
